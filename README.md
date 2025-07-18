@@ -21,6 +21,7 @@ Built dynamic models to forecast sales and evaluate profit impact under varying 
 ### 🛠️ I'm currently working on...
 - Expanding my financial modeling skills with Python and Power BI
 - Exploring cloud-based databases and Azure tools
+- Continuing on my education with a Masters with a focus on Cybersecurity
 
 ### 💬 Ask me about...
 - Turning complex data into strategic insights  
